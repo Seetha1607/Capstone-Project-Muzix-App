@@ -1,0 +1,29 @@
+
+<div class="loginPage" style="background-image: url('../../assets/images/946175-top-movie-poster-wallpaper-1920x1080-1080p.jpg');"><div class="top"></div>
+<form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+    <mat-form-field id="formfield" appearance="outline">
+        <input matInput type="email" placeholder="Email" name="email" formControlName="email" [(ngModel)]="user.email">
+        <mat-error *ngIf="email?.hasError('required')">
+            Email is required.
+        </mat-error>
+    </mat-form-field>
+    <br>
+    <mat-form-field  appearance="outline">
+        <input matInput type="password" placeholder="Password" name="password" formControlName="password"  [(ngModel)]="user.password">
+        <mat-error *ngIf="password?.hasError('required')">
+            Password is required.
+        </mat-error>
+    </mat-form-field>
+    <br>
+    <div>
+        <button mat-raised-button type="submit" [disabled]="!profileForm.valid" style="margin-left: 20px;background-color:#154b81;">Login</button>
+    </div>
+    <br><br><br><div id="signup">
+        <span>Don't Have A Account?</span>
+        <a routerLink="../register">
+            <button mat-raised-button   style="margin-left: 20px;background-color:gray;">SignUp</button>
+        </a>
+
+    </div>
+</form><div class="footer"></div>
+</div>

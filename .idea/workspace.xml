@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de2c69d5-3153-498b-8319-282d36b9ec4a" name="Changes" comment="added all the project files">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Class Diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/GRAPHICAL PRESENTATION.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Movie App.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix Application Power point presentation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_netflix_eureka_eureka_client_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_netflix_eureka_eureka_client_jersey3_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_netflix_eureka_eureka_core_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_netflix_eureka_eureka_core_jersey3_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__com_zaxxer_HikariCP_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_github_openfeign_feign_core_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_github_x_stream_mxparser_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_micrometer_micrometer_core_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__io_projectreactor_reactor_core_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_4_0_b180830_0359.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_bouncycastle_bcutil_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_eclipse_angus_angus_activation_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_hk2_spring_bridge_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_hk2_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_6_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_1_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_javassist_javassist_3_28_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_5_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_mockito_mockito_core_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_mongodb_bson_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_mongodb_bson_record_codec_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_6_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_aop_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_aspects_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_beans_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_context_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_context_support_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_core_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_expression_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_orm_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_test_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_tx_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_web_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_springframework_spring_webmvc_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/src/main/java/com/example/Eureka/Server/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/Eureka-Server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Config/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Config/MessageConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Controller/FavouriteMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Domain/FavouriteMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Exception/MovieAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Exception/MovieNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/FavouriteMovieServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/RabbitMq/Domain/FavouriteDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Repository/FavouriteMovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Services/FavouriteMovieImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/java/com/example/FavouriteMovieService/Services/IFavouriteMovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/FavouriteMovieService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Config/MessageConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Config/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Domain/FavouriteMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Exception/MovieAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Exception/MovieNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Exception/UserAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/MovieServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Proxy/UserProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/RabbitMq/Domain/FavouriteDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Repository/FavouriteMovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Repository/UserMovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Services/FavouriteMovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Services/FavouriteMovieServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Services/UserMovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/Services/UserMovieServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/controller/FavouriteMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/java/com/example/MovieService/controller/UserMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/MovieService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/src/main/java/com/example/SpringAPIGateway/SpringApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/SpringAPIGateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/UserAuthenticationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/domain/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/exception/UserAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/filter/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/service/SecurityTokenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/service/SecurityTokenGeneratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/java/com/example/UserAuthentication/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/UserAuthentication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/Capstone-Project-Muzix-Application/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/auth.guard.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/dashboard/dashboard.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/dashboard/dashboard.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/dashboard/dashboard.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/dashboard/dashboard.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/favourite/favourite.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/favourite/favourite.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/favourite/favourite.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/favourite/favourite.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/filter.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/filter.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/login.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/login.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/models/models/movies.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/models/models/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/movie-view/movie-view.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/movie-view/movie-view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/movie-view/movie-view.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/movie-view/movie-view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/movie.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/movie.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/play/play.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/play/play.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/play/play.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/play/play.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/poster/poster.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/poster/poster.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/poster/poster.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/poster/poster.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/recommendation/recommendation.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/recommendation/recommendation.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/recommendation/recommendation.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/recommendation/recommendation.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/registration/registration.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/registration/registration.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/registration/registration.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/registration/registration.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/safe.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/app/safe.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/blur background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/images/1080p-Cool-Wallpapers-HD-For-Desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/images/946175-top-movie-poster-wallpaper-1920x1080-1080p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/images/Netflix-Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/images/Photoshop_Blue_background_025242_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/images/login image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/assets/images/profilepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/Muzix-app/frontend/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/SNAPSHOT OUTPUT/Screenshot (635).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/SNAPSHOT OUTPUT/Screenshot (636).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/SNAPSHOT OUTPUT/Screenshot (637).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/SNAPSHOT OUTPUT/Screenshot (638).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MOVIE NIIT PROJECT/SNAPSHOT OUTPUT/Screenshot (640).png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LrF1AAgo6k4ZFz96NJCoQGRfir" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/seeth/Desktop/MOVIE NIIT PROJECT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de2c69d5-3153-498b-8319-282d36b9ec4a" name="Changes" comment="" />
+      <created>1676621077449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676621077449</updated>
+      <workItem from="1676621081347" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added all the project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all the project files" />
+  </component>
+</project>

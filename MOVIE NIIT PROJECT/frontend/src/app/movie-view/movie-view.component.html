@@ -1,0 +1,84 @@
+<div id="bgimg" class="blur"
+    style="background-image: url(https://www.themoviedb.org/t/p/w1066_and_h600_bestv2{{selectedMovieData.backdrop_path}});">
+    <div class="container">
+        <div id="infoCard">
+            <div class="row" style="margin-top: 75px; margin-bottom: 75px;">
+                <div class="col">
+                    <mat-card class="example-card movie-img">
+                        <img mat-card-image
+                            src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2{{selectedMovieData.poster_path}}">
+                    </mat-card>
+                </div>
+            </div>
+
+            <div class="col content">
+                <mat-card class="cardContent">
+                    <!-- movie-title -->
+                    <div class="info">
+                        <div class="movie-title"><strong>
+                            {{selectedMovieData.original_title}}</strong>
+                            <a mat-button style="color: red;" matTooltip="Add to Favorite"
+                        (click)="addToFavourite(selectedMovieData)">
+                        <mat-icon>favorite</mat-icon></a>
+                        </div>
+                    </div><br>
+                       <!-- Rating -->
+                    <div class="movie-detail">
+                        <i class="fa fa-star" aria-hidden="true" style="font-size:23px; color: gold;"></i>
+                        <span>{{selectedMovieData.vote_average}}</span>
+                    </div><br>
+                        <!-- release_date -->
+                    <div class="movie-detail">
+                        <label>Release Date</label>
+                        <span>{{selectedMovieData.release_date}}</span>
+                    </div><br>
+                    <!-- genre -->
+                    <div class="movie-detail">
+                        <label>Genre</label>
+                        <span *ngFor="let genre of particularMovieGenre">{{genre.name}}, </span>
+                    </div><br>
+
+                    <!-- overview -->
+                    <div class="movie-description">
+                        {{selectedMovieData.overview}}
+                    </div><br>
+
+                   <!-- recommendation-button -->
+                   <a routerLink="/recommended" style="color:rgb(8, 8, 44); width: fit-content;"
+                        (click)="passRecommended(selectedMovieData.original_title)" mat-button
+                        matTooltip="View Recommended Movies">
+                        <mat-icon>Recommend</mat-icon>
+                    </a> 
+                    <br><br>
+                    <!-- play button -->
+                    <div>
+                    <button (click)="openDialog()">Play Trailer</button></div>
+
+                    <!-- <div *ngIf="alert" class="alert alert-success alert-dismissible fade show" role="alert"
+                            style="font-size: 15px;">
+                        <div *ngIf="alert" class="alert alert-success alert-dismissible fade show" role="alert"
+                            style="font-size: 15px;">
+                            <strong>Success !!!</strong> Movie added to your Favourites
+                            <button (click)="closeAlert()" type="button" class="close" data-dismis="alert"
+                                aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>                        
+                        </div>
+                    </div>
+
+                        <div *ngIf="warningAlert" class="alert alert-danger alert-dismissible fade show" role="alert"
+                        style="font-size: 15px;">
+                        <strong>Warning !!!</strong> Movie already added to your Favourites
+                        <button (click)="closeAlert()" type="button" class="close" data-dismis="alert"
+                            aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div> -->
+
+                </mat-card>
+            </div>
+        </div>
+    </div>
+</div>
+
+

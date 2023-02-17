@@ -1,0 +1,27 @@
+<h1 class="head">FAVOURITES</h1>
+
+<div class="input-group rounded">
+    <input type="text" class="form-control rounded" [(ngModel)]="searchTerm" (keyup)="search($event)" placeholder="Search Movies here..." aria-label="Search"
+        aria-describedby="search-addon" #searchitem />
+    <span class="input-group-text border-0" id="search-addon">
+        <i class="fas fa-search search-icon" matToolTip="Search"></i>
+    </span>
+    <i class="fa-solid fa-rotate-right reset" matToolTip="Rest" (click)="reset()"></i>
+</div>
+<div class="container">
+    <div id="movieContainer" >
+      <div class="card" *ngFor="let data of favourites | filter:searchKey:'original_title'">
+          <img  src="https://image.tmdb.org/t/p/w300/{{data.poster_path }}">
+          <div class="descriptions">
+              <h1>{{data.original_title}}</h1>
+              <br>
+              <p>Release Date: {{data.release_date}}</p>
+              <p>Rating: {{data.vote_average}}</p>
+              <button (click)="movieDetails(data)">
+                    More info
+              </button>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-trash" matToolTip="Remove" style="font-size: 25px;" (click)="deleteMovie(data)" aria-hidden="true"></i>
+
+          </div>
+      </div>
+  </div>
+</div>

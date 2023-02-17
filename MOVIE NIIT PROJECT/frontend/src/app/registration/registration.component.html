@@ -1,0 +1,93 @@
+<div class="container" >
+    <div class="loginPage" style="background-image: url('../../assets/images/946175-top-movie-poster-wallpaper-1920x1080-1080p.jpg');">
+        <div class="top">
+            <form (ngSubmit)="onSubmit()" [formGroup]="addressForm">
+                <h3 s><strong>Registration Form</strong></h3><br>
+
+                <mat-form-field id="formfield" appearance="outline" style="margin-left: 120px;">
+                    <input matInput placeholder="User Name*" type="text" id="username" formControlName="username"
+                        [(ngModel)]="userObject.username" />
+                    <mat-error *ngIf="username?.errors?.['required']">
+                        User Name is required.
+                    </mat-error>
+                    <mat-error *ngIf="username?.errors?.['minlength']">
+                        User Name should have minimum of 4 characters.
+                    </mat-error>
+                    <mat-error *ngIf="addressForm.controls['username'].hasError('pattern')">
+                        User Name cannot be numbers only.
+                      </mat-error>
+  
+                </mat-form-field>
+
+                <mat-form-field appearance="outline" style="margin-left: 120px;">
+                    <input matInput placeholder="Email Address*" type="text" id="email" formControlName="email"
+                        [(ngModel)]="userObject.email" />
+                    <mat-error *ngIf="email?.errors?.['required']">
+                        Email ID is required.
+                    </mat-error>
+                    <mat-error *ngIf="addressForm.controls['email'].hasError('pattern')">
+                        Email ID should be of Alphabets, numbers and Eg: @example.com
+                      </mat-error>  
+                </mat-form-field><br>
+
+                <mat-form-field appearance="outline" style="margin-left: 120px;">
+                    <input matInput type="password" placeholder="Password*" id="password" formControlName="password"
+                        [(ngModel)]="userObject.password">
+                    <mat-error *ngIf="password?.errors?.['required']">
+                        Password is required.
+                    </mat-error>
+                    <mat-error *ngIf="password?.errors?.['minlength']">
+                        Password is should be of minimum of 6 characters.
+                    </mat-error>
+                    <mat-error *ngIf="password?.errors?.['pattern']">
+                        Password should be combination of numbers alphabets and symbols.
+                    </mat-error>
+                </mat-form-field><br>
+
+                <mat-form-field appearance="outline" style="margin-left: 120px;">
+                    <mat-label formControlName="gender" [(ngModel)]="userObject.gender">Select Gender</mat-label>
+                    <mat-select formControlName="gender" [(ngModel)]="userObject.gender">
+                        <mat-option value="Male">Male</mat-option>
+                        <mat-option value="Female">Female</mat-option>
+                    </mat-select>
+                </mat-form-field>
+
+                <mat-form-field appearance="outline" style="margin-left: 120px;">
+                    <input matInput type="phoneNumber" placeholder="Phone Number*" id="phoneNumber"
+                        formControlName="phoneNumber" [(ngModel)]="userObject.phoneNumber">
+                    <mat-error *ngIf="phoneNumber?.errors?.['required']">
+                        Phone Number is required.
+                    </mat-error>
+                    <mat-error *ngIf="phoneNumber?.errors?.['pattern']">
+                        Phone Number should be of numbers only.
+                    </mat-error>
+                    <mat-error *ngIf="phoneNumber?.errors?.['minlength']">
+                        Phone Number should be minimum of 10 number.
+                    </mat-error>
+                    <mat-error *ngIf="phoneNumber?.errors?.['maxlength']">
+                        Phone Number should be minimum of 10 numbers.
+                    </mat-error>
+                </mat-form-field><br><br>
+
+                <div class="upload">
+                    <button type="button" class="btn-warning">
+                        <i class="fa fa-upload"></i> Upload Profile Picture
+                        <input type="file" id="file" (change)="imgupload($event)">
+                    </button>
+                </div>
+                <br>
+
+                <button mat-button mat-raised-button style="margin-left: 170px; background-color:#092745"
+                    [disabled]="addressForm.controls['userName' && 'email' && 'password' && 'gender' && 'phoneNumber'].invalid"
+                    type="submit">Register</button>
+                <br><br>
+                <div id="signup" style="margin-left: 100px;">
+                    <span style="text-decoration: dashed;">Already Registered?</span>
+                    <a routerLink="/login">
+                        <button mat-raised-button
+                            style="margin-left: 20px; background-color:rgb(33, 63, 231);">Login</button></a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

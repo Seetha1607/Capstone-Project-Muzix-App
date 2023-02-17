@@ -1,0 +1,88 @@
+:root{
+  --color-primary: #0073ff;
+  --color-white: #e9e9e9;
+  --color-black: #141d28;
+  --color-black-1: #212b38;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  
+}
+body{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.menu_bar{
+  background-color: #141d28;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5%;
+  cursor: pointer;
+}
+
+.logo{
+  color: #e9e9e9;;
+  padding-top: 9px;
+  font-size: 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.logo span{
+  color: #0073ff;
+  text-decoration: none;
+}
+
+.menu_bar ul{
+  list-style: none;
+  display: flex;
+  cursor: pointer;
+}
+.menu_bar ul li{
+  padding: 10px 20px;
+  position: relative;
+  cursor: pointer;
+}
+.menu_bar ul li a{
+  color:#e9e9e9;
+  text-decoration: none;
+  font-size: 18px;
+  transition:all 0.3s ; 
+  cursor: pointer;
+}
+.menu_bar ul li a:hover{
+  color:#0073ff;
+}
+
+.dropdown_menu{
+  display: none;
+}
+.menu_bar ul li:hover .dropdown_menu{
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  cursor: pointer;
+  background-color:#141d28;
+}
+
+.menu_bar ul li:hover .dropdown_menu ul{
+  display: block;
+  margin: 10px;
+}
+.menu_bar ul li:hover .dropdown_menu ul li{
+  width: 150px;
+  padding: 10px;
+}
+.fas{
+  float: right;
+  margin-left: 10px;
+  padding-top: 3px;
+}

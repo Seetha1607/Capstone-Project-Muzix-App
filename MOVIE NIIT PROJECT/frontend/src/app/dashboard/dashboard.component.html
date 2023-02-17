@@ -1,0 +1,12 @@
+
+<body  class="container" style="padding-bottom: 50px;">
+
+  <h2 style="text-align:center; padding-top: 40px;">User Profile Details</h2>
+  <div class="card">
+    <img [src]="'data:image/jpeg;base64,'+user.image" alt="Profile picture not updated" style="width:100%">
+    <h1>{{user.username}}</h1>
+    <p class="title">{{user.email}}</p>
+    <p>{{user.gender}}</p>
+    <p><button><i class="fas fa-phone"> {{user.phoneNumber}}</i></button></p>
+  </div>
+  </body>

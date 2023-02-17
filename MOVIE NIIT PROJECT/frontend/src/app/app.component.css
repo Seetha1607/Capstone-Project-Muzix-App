@@ -1,0 +1,36 @@
+/* Default styles */
+body {
+  font-size: 16px;
+  margin: 0;
+}
+/* Use CSS Grid for layout */
+.container {
+  background-color: gray;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns */
+  grid-gap: 20px; /* Add gap between columns */
+}
+/* Media query for screens less than 600px wide */
+@media (max-width: 6000px) {
+  /* Change to single column layout */
+  .container {
+    grid-template-columns: 1fr;
+    
+  }
+}
+/* Media query for screens less than 400px wide */
+@media (min-width: 100px) {
+  /* Reduce font size */
+  body {
+    font-size: 14px;
+  }
+}
+/* Use vw unit for responsive font size */
+h1 {
+  font-size: 4vw; /* Scale font size with viewport width */
+}
+/* Use vh unit for responsive image height */
+img {
+  max-height: 40vh; /* Scale image height with viewport height */
+}
+

@@ -1,0 +1,94 @@
+version: '3.9'
+services:
+  mysqlService:
+    image: mysql:latest
+    container_name: mysql
+    networks:
+      - mynetwork
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_USERNAME: root
+      MYSQL_PASSWORD: root
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+
+  authentication-service:
+    image: userimage
+    container_name: authentication-service
+    build: UserAuthentication/
+    restart: always
+    networks:
+      - mynetwork
+    ports:
+      - "8085:8085"
+    depends_on:
+      - mysqlService
+      - apigateway
+
+  eurekaservice:
+    container_name: spring-cloud-eureka
+    build: Eureka-Server/
+    restart: always
+    networks:
+      - mynetwork
+    ports:
+      - 8761:8761
+
+  apigateway:
+    container_name: spring-cloud-api-gateway
+    build: SpringAPIGateway/
+    restart: always
+    networks:
+      - mynetwork
+    ports:
+      - 9000:9000
+
+  user-movie-service:
+    image: movieimage
+    container_name: movie-container
+    build: MovieService/
+    restart: always
+    networks:
+      - mynetwork
+    ports:
+      - "8081:8081"
+    depends_on:
+      - mongoService
+      - apigateway
+
+  mongoService:
+    image: mongo
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    networks:
+      - mynetwork
+
+  favourite-movie-service:
+    image: favouritemovieimage
+    container_name: favourite-movie-container
+    build: FavouriteMovieService/
+    restart: always
+    networks:
+      - mynetwork
+    ports:
+      - "8082:8082"
+    depends_on:
+      - mongoService
+      - apigateway
+      - rabbitmqService
+
+  rabbitmqService:
+    image: rabbitmq:management
+    container_name: rabbitmq-container
+    ports:
+      - "5672:15672"
+      - "15672:15672"
+    networks:
+      - mynetwork
+    restart: always
+
+networks:
+  mynetwork:
+    driver: bridge
